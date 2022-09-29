@@ -1,4 +1,4 @@
-package com.singleton.designpattern_double_checked_locking;
+package com.singleton.designpattern.double_checked_locking;
 
 class SingletonDoubleCheckLocking {
 	private static volatile SingletonDoubleCheckLocking singletonDoubleCheckLocking = null;
